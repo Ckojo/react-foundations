@@ -1,0 +1,13 @@
+.new-goal {
+    margin: 2rem;
+    text-align: center;
+    padding: .5rem;
+}
+
+.new-goal button {
+    margin-left: 1rem;
+    padding: .2rem .45rem;
+    background-color: chocolate;
+    border: none;
+    color: #fdfcfc;
+}
